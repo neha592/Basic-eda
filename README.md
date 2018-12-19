@@ -6,7 +6,7 @@
 
 * <b>Data Analysis:</b>
 
-    1. [EDA1]() : To perform Exploratory Data Analysis on Dateset containing pricing of Okra in Indian Markets.
+    1. [EDA1](https://github.com/neha592/EDA_ML_FILES/blob/master/eda1.ipynb) : To perform Exploratory Data Analysis on Dateset containing pricing of Okra in Indian Markets.
     
     2. [EDA2](https://github.com/neha592/EDA_ML_FILES/blob/master/EDA-02.ipynb) : To perform Exploratory Data Analysis on Dateset containing movies rating by users.
  
