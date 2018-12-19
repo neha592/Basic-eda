@@ -20,7 +20,7 @@
 
     6. [PCA](https://github.com/neha592/EDA_ML_FILES/blob/master/pca.ipynb) : To perform PCA on the dataset containing information about tumor of Breast Cancer. need to classify Malignant and Benign            types .
     
-    7. [SVM]() : To predict the gender of abalone using Support Vector Classifier Algorithm and also Grid Search for tuning the parametres.
+    7. [SVM](https://github.com/neha592/EDA_ML_FILES/blob/master/SVM.ipynb) : To predict the gender of abalone using Support Vector Classifier Algorithm and also Grid Search for tuning the parametres.
     
     8. [KMeans](https://github.com/neha592/EDA_ML_FILES/blob/master/Kmeans.ipynb) : Perform cluster analysis with K means Algorithm using optimal using Elbow method and Hierarchical clustering with              suitable dendogram on Crime Data of different states of USA .
     
