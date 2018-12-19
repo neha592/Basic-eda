@@ -38,4 +38,4 @@ I have performed Data Analysis on few datasets using Tableau Public Version whos
 
 Note :  The datsets used in the above files is from various datset providing sites i don't owe any of them. 
 
-Contact : [email_id](rneha592@gmail.com)
+Contact : Please send out mails on this email_ id : rneha592@gmail.com
