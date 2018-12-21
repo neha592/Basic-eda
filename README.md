@@ -6,11 +6,11 @@
 
 * <b>Data Analysis:</b>
 
-    1. [EDA1](https://github.com/neha592/EDA/blob/master/eda1.ipynb) : To perform Exploratory Data Analysis on Dateset containing pricing of Okra in Indian Markets.
+    1. [Okra dataset exploratory data Analysis](https://github.com/neha592/EDA/blob/master/Okra%20dataset%20Exploratory%20data%20Analysis.ipynb) : To perform Exploratory Data Analysis on Dateset containing pricing of Okra in Indian Markets.
     
-    2. [EDA2](https://github.com/neha592/EDA/blob/master/EDA-02.ipynb) : To perform Exploratory Data Analysis on Dateset containing movies rating by users.
+    2. [Movie Rating Descriptive Analysis](https://github.com/neha592/EDA/blob/master/Movie%20rating%20descriptive%20analysis.ipynb) : To perform Exploratory Data Analysis on Dateset containing movies rating by users.
     
-    3. [Project](https://github.com/neha592/EDA/blob/master/Project.ipynb) : The aim is to perform Data Analytics and predict the wine quality using regression modelling. Need to perform data analysis and post out the             finding from the analysis. This Project is same as the project in ML Repositort as it has combined both (EDA+ML).
+    3. [Wine quality prediction.](https://github.com/neha592/EDA/blob/master/wine%20quality%20prediction.ipynb) : The aim is to perform Data Analytics and predict the wine quality using regression modelling. Need to perform data analysis and post out the             finding from the analysis. This Project is same as the project in ML Repositort as it has combined both (EDA+ML).
  
  * <b><u>Tools Used </u>:</b> <i> Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Scipy Tableau public Version .</i>  
 
